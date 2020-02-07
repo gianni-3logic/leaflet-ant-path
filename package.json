@@ -1,7 +1,7 @@
 {
-  "name": "leaflet-ant-path",
+  "name": "leaflet-ant-path-no-css",
   "version": "1.3.0",
-  "description": "Creates a leaflet polyline with a 'ant-path' animated flux",
+  "description": "Creates a leaflet polyline with a 'ant-path' animated flux, the css should be added separately",
   "keywords": [
     "leaflet",
     "plugin",
@@ -24,7 +24,7 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rubenspgcavalcante/leaflet-ant-path"
+    "url": "https://github.com/gianni-3logic/leaflet-ant-path"
   },
   "homepage": "http://rubenspgcavalcante.github.io/leaflet-ant-path",
   "bugs": {
